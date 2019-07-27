@@ -9,6 +9,6 @@ print (len(myName))
 print ('What is your age?') # Asks for their age
 myAge = input() 
 print ('you will be ' + str(int(myAge) + 1) + ' in a year.')
-
+input("Press enter to close program")
 
 
